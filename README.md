@@ -13,8 +13,13 @@
 
 * Additional information: Background of the idea conception, who is on the team, the problem statement and which sector the solution applies to (Health, Transportation, etc) and a value proposition. 
 
-## Paper on effectiveness
+## References on Corona Virus
+
+### Paper on effectiveness
 [Clordisys paper](https://www.clordisys.com/pdfs/misc/UV%20Data%20Sheet.pdf)
+
+### Video on safe package handling
+[Link](https://www.youtube.com/watch?v=Sryj2VsuKns)
 
 ## Proudct Images
 ![Light](Images/boxlightzoom.jpg)
