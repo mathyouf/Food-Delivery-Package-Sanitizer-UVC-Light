@@ -1,4 +1,4 @@
-# Sanitizer
+# Low Cost, Highly Portable, Food Delivery Sanitizer
 
 ## Competition Link
 [Virtual Hacks](https://virtualhacks.ca/)
