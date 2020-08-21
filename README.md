@@ -54,10 +54,10 @@ These bulbs can last for 1000's of hours at max output. Even if we assume the de
 
 #### Iconography
 Option 1:
-![Iconred](Images/uviconred.png)
+![Iconred](Images/uvciconred.png)
 
 Option 2:
-![Iconwhite](Images/uviconwhite.png)
+![Iconwhite](Images/uvciconwhite.png)
 
 #### In App Icon
 ![facedrive_eats](Images/facedrive1.jpg)
