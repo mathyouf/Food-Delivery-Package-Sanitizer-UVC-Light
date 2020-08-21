@@ -14,13 +14,27 @@ The range of wavelengths that effectively kill viruses and germs is 100-280nm, k
 ![UV-C_range](Images/UVC-light.png)
 
 This wavelengthis absorbed by the DNA and RNA of microscopic organisms like Corona viruses, which alters the structure of them, eliminating their ability to replicate. This is also known as Ultraviolet Germicidal Irradiation.
+[Clordisys research on UV-C Effectiveness](https://www.clordisys.com/pdfs/misc/UV%20Data%20Sheet.pdf)
 
 ![effectiveness](Images/effectiveness.png)
 
-## References on Corona Virus
+### Benefits
 
-### Paper on effectiveness
-[Clordisys paper](https://www.clordisys.com/pdfs/misc/UV%20Data%20Sheet.pdf)
+#### Clean
+UV-C Viracidal Irradiation doesn't require airflow or sealed containers to effectively neutralize viral contaminents. It also leaves no residue
+
+#### Safe
+UV-C light is safely observable by a user if it is done through a transparent plastic. Therefore, a plastic square could be added to delivery bags for users who want to be able to observe the light being on. UV-C light will not pass through most plastics and glass, as well as many other materials.
+
+#### Cost effective
+The cost of a typical bulb is $25.
+
+#### Long Lasting
+These bulbs can last
+
+
+
+
 
 ### Video on safe package handling
 [Link](https://www.youtube.com/watch?v=Sryj2VsuKns)
