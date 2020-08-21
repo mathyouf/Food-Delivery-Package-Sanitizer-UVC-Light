@@ -54,9 +54,11 @@ These bulbs can last for 1000's of hours at max output. Even if we assume the de
 
 #### Iconography
 Option 1:
+
 ![Iconred](Images/uvciconred.png)
 
 Option 2:
+
 ![Iconwhite](Images/uvciconwhite.png)
 
 #### In App Icon
