@@ -5,7 +5,6 @@
 ### Overview
 Our proposal is a low cost, portable attachment to any food delivery service bag that floods the bag with safe, viracidal light.
 
-![foodora](Images/foodora_button.jpg)
 ![foodoradelivery](Images/foodoradelivery.jpg)
 
 ### Viracidal Effectiveness of UV-C Light
@@ -25,6 +24,9 @@ This wavelengthis absorbed by the DNA and RNA of microscopic organisms like Coro
 
 ### Product Assembly
 
+#### Light
+
+
 #### Buttons
 * LED light included for style and safety for delivery driver to know if light is on or off. This can be sewed into the bag near the zipper opening.
 
@@ -32,6 +34,10 @@ This wavelengthis absorbed by the DNA and RNA of microscopic organisms like Coro
 
 * CAD $4.99
 [Website Link](https://www.canadianjoysticks.com/qanba-24mm-led-button-white-body-white-led/)
+
+#### Integration
+
+![foodora](Images/foodora_button.jpg)
 
 ## User Experience
 
