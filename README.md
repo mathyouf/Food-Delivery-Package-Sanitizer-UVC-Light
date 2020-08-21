@@ -18,6 +18,40 @@ This wavelengthis absorbed by the DNA and RNA of microscopic organisms like Coro
 
 ![effectiveness](Images/effectiveness.png)
 
+## Proudct Images
+![Light](Images/boxlightzoom.jpg)
+![Unlit](Images/boxzoom.jpg)
+
+## User Experience
+
+### App Integration
+
+#### Iconography
+Option 1:
+
+![Iconred](Images/uvciconred.png)
+
+Option 2:
+
+![Icon2](Images/uvcicon_2_outline2.png)
+
+#### In App Icon
+* Facedrive Integration with Icon 1: 
+
+![facedrive_eats](Images/facedrive1_logo.jpg)
+
+
+* Foodora Integration with Icon 2:
+
+![foodora_page](Images/foodora1_icon.jpg)
+
+
+
+### Video on safe package handling
+[Link](https://www.youtube.com/watch?v=Sryj2VsuKns)
+
+<!-- https://wdrfree.com/stock-vector/disinfection-lamp-icon-->
+
 ### Benefits
 
 #### Clean
@@ -47,35 +81,6 @@ The cost of a typical bulb is $25.
 
 #### Long Lasting
 These bulbs can last for 1000's of hours at max output. Even if we assume the delivery driver uses the add-on 10 hours per day, they can work 100 days per bulb.
-
-## User Experience
-
-### App Integration
-
-#### Iconography
-Option 1:
-
-![Iconred](Images/uvciconred.png)
-
-Option 2:
-
-![Iconwhite](Images/uvciconwhite.png)
-
-#### In App Icon
-![facedrive_eats](Images/facedrive1.jpg)
-
-![foodora_page](Images/foodora1.jpg)
-
-
-
-### Video on safe package handling
-[Link](https://www.youtube.com/watch?v=Sryj2VsuKns)
-
-## Proudct Images
-![Light](Images/boxlightzoom.jpg)
-![Unlit](Images/boxzoom.jpg)
-
-<!-- https://wdrfree.com/stock-vector/disinfection-lamp-icon-->
 
 
 # Competition Information
