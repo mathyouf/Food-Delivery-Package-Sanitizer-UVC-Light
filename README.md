@@ -21,16 +21,31 @@ This wavelengthis absorbed by the DNA and RNA of microscopic organisms like Coro
 ### Benefits
 
 #### Clean
-UV-C Viracidal Irradiation doesn't require airflow or sealed containers to effectively neutralize viral contaminents. It also leaves no residue
+UV-C Viracidal Irradiation doesn't require airflow or sealed containers to effectively neutralize viral contaminents. It also leaves no harmful residue that has to be cleaned after decontamination,
+
+#### Environemtally Friendly
+No toxic chemicals are created by these UV-C lamps and disposal doesn't require special handling. The light doesn't contaminate the air or water so there are no environmentally harmful byproducts of using UV-C for decontamination.
 
 #### Safe
-UV-C light is safely observable by a user if it is done through a transparent plastic. Therefore, a plastic square could be added to delivery bags for users who want to be able to observe the light being on. UV-C light will not pass through most plastics and glass, as well as many other materials.
+UV-C light is safely observable by a user if it is done through a transparent plastic. Therefore, an optional transparent plastic square could be added to delivery bags for users who want to be able to observe the packages and light during operation. UV-C light will not pass through most plastics and glass, as well as many other materials.
+
+#### Fast
+Decontamination takes 10-15 minutes to be fully effective. This is extremely convenient as that is about the average time that deliveries take, so a driver can simply turn on the light when they collect the food and forget it until they arrive at their place of delivery. There is no harm from extended periods of exposure (like 1 hour).
+
+According to the [UberEats Delivery Information page](https://www.ubereats.com/restaurant/en-US/faq): 
+> "On average, our driver partners deliver within 15 minutes (from pickup to dropoff)**"
+
+#### Simple
+The decontamination processs is easy to understand. Anything the light touches is being disinfected. Drivers can easily imagine where on the package the most effective decontamination will occur.
+
+#### Short Range
+UV-C decontamination effectiveness experiences exponential decay over distance. The effective range is 2 meters. This makes it a perfect solution for the close ranges of a food delivery package, which also often has reflective insulating material inside of it, which could help aid decontamination in nooks and crannies of the packaging.
 
 #### Cost effective
 The cost of a typical bulb is $25.
 
 #### Long Lasting
-These bulbs can last
+These bulbs can last for 1000's of hours at max output. Even if we assume the delivery driver uses the add-on 10 hours per day, they can work 100 days per bulb.
 
 
 
@@ -45,7 +60,7 @@ These bulbs can last
 
 
 
-## Competition Link
+# Competition Information
 [Virtual Hacks](https://virtualhacks.ca/)
 ![vhchallenges](Images/challenges.JPG)
 
