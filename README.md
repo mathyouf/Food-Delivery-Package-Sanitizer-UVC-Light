@@ -46,12 +46,12 @@ Option 2:
 #### In App Icon
 * Facedrive Integration with Icon 1: 
 
-![facedrive_eats](Images/facedrive1_logo.jpg)
+![facedrive_eats](Images/Resized/facedrive1_r.jpg)
 
 
 * Foodora Integration with Icon 2:
 
-![foodora_page](Images/foodora1_icon.jpg)
+![foodora_page](Images/Resized/foodora_r.jpg)
 
 
 
