@@ -5,7 +5,7 @@
 ### Overview
 Our proposal is a low cost, portable attachment to any food delivery service bag that floods the bag with safe, viracidal light.
 
-![foodora](Images/foodora_button.jpg)
+![foodora](Images/Resized/foodora_r.jpg)
 
 ### Viracidal Effectiveness of UV-C Light
 
