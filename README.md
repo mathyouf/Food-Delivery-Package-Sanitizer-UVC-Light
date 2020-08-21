@@ -25,6 +25,7 @@ This wavelengthis absorbed by the DNA and RNA of microscopic organisms like Coro
 ### Product Assembly
 
 #### Buttons
+* LED light included for style and safety for delivery driver to know if light is on or off. This can be sewed into the bag near the zipper opening.
 ![ledbutton](Images/ledbutton.JPG)
 * CAD $4.99
 [Website Link](https://www.canadianjoysticks.com/qanba-24mm-led-button-white-body-white-led/)
