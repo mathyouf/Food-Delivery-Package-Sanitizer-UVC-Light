@@ -16,7 +16,7 @@ The range of wavelengths that effectively kill viruses and germs is 100-280nm, k
 This wavelengthis absorbed by the DNA and RNA of microscopic organisms like Corona viruses, which alters the structure of them, eliminating their ability to replicate. This is also known as Ultraviolet Germicidal Irradiation.
 [Clordisys research on UV-C Effectiveness](https://www.clordisys.com/pdfs/misc/UV%20Data%20Sheet.pdf)
 
-![effectiveness](Images/effectiveness.png)
+![effectiveness](Images/effectiveness2_resize.jpg)
 
 ## Proudct Images
 ![Light](Images/boxlightzoom.jpg)
