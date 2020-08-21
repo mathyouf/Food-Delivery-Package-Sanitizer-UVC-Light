@@ -34,6 +34,7 @@ Decontamination takes 10-15 minutes to be fully effective. This is extremely con
 
 According to the [UberEats Delivery Information page](https://www.ubereats.com/restaurant/en-US/faq): 
 > "On average, our driver partners deliver within 15 minutes (from pickup to dropoff)**"
+> -UberEats Website
 
 #### Simple
 The decontamination processs is easy to understand. Anything the light touches is being disinfected. Drivers can easily imagine where on the package the most effective decontamination will occur.
@@ -47,7 +48,21 @@ The cost of a typical bulb is $25.
 #### Long Lasting
 These bulbs can last for 1000's of hours at max output. Even if we assume the delivery driver uses the add-on 10 hours per day, they can work 100 days per bulb.
 
+## User Experience
 
+### App Integration
+
+#### Iconography
+Option 1:
+![Iconred](Images/uviconred.png)
+
+Option 2:
+![Iconwhite](Images/uviconwhite.png)
+
+#### In App Icon
+![facedrive_eats](Images/facedrive1.jpg)
+
+![foodora_page](Images/foodora1.jpg)
 
 
 
@@ -58,6 +73,7 @@ These bulbs can last for 1000's of hours at max output. Even if we assume the de
 ![Light](Images/boxlightzoom.jpg)
 ![Unlit](Images/boxzoom.jpg)
 
+<!-- https://wdrfree.com/stock-vector/disinfection-lamp-icon-->
 
 
 # Competition Information
