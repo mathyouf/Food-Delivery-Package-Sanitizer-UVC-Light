@@ -22,6 +22,13 @@ This wavelengthis absorbed by the DNA and RNA of microscopic organisms like Coro
 ![Light](Images/boxlightzoom.jpg)
 ![Unlit](Images/boxzoom.jpg)
 
+### Product Assembly
+
+#### Buttons
+![ledbutton](Images/ledbutton.JPG)
+* CAD $4.99
+[Website Link](https://www.canadianjoysticks.com/qanba-24mm-led-button-white-body-white-led/)
+
 ## User Experience
 
 ### App Integration
