@@ -19,8 +19,8 @@ This wavelengthis absorbed by the DNA and RNA of microscopic organisms like Coro
 ![effectiveness](Images/effectiveness.png)
 
 ## Proudct Images
-![Light](Images/boxlightzoom.jpg)
-![Unlit](Images/boxzoom.jpg)
+<!-- ![Light](Images/boxlightzoom.jpg)
+![Unlit](Images/boxzoom.jpg) -->
 
 ### Product Assembly
 
