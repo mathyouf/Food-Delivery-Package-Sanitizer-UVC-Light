@@ -5,7 +5,7 @@
 ### Overview
 Our proposal is a low cost, portable attachment to any food delivery service bag that floods the bag with safe, viracidal light.
 
-![foodora](Images/Resized/foodora_r.jpg)
+![foodora](Images/foodora_button.jpg)
 
 ### Viracidal Effectiveness of UV-C Light
 
@@ -19,8 +19,8 @@ This wavelengthis absorbed by the DNA and RNA of microscopic organisms like Coro
 ![effectiveness](Images/effectiveness.png)
 
 ## Proudct Images
-<!-- ![Light](Images/boxlightzoom.jpg)
-![Unlit](Images/boxzoom.jpg) -->
+![Light](Images/boxlightzoom.jpg)
+![Unlit](Images/boxzoom.jpg)
 
 ### Product Assembly
 
@@ -46,12 +46,12 @@ Option 2:
 #### In App Icon
 * Facedrive Integration with Icon 1: 
 
-![facedrive_eats](Images/Resized/facedrive1_r.jpg)
+![facedrive_eats](Images/facedrive1_logo.jpg)
 
 
 * Foodora Integration with Icon 2:
 
-![foodora_page](Images/Resized/foodora_r.jpg)
+![foodora_page](Images/foodora1_icon.jpg)
 
 
 
